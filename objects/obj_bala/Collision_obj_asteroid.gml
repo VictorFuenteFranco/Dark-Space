@@ -105,8 +105,8 @@ with(other) {
 	/// @DnDVersion : 1
 	/// @DnDHash : 18EEEA1C
 	/// @DnDParent : 23849D18
-	/// @DnDArgument : "times" "10"
-	repeat(10)
+	/// @DnDArgument : "times" "15"
+	repeat(15)
 	{
 		/// @DnDAction : YoYo Games.Instances.Create_Instance
 		/// @DnDVersion : 1

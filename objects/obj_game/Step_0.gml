@@ -35,8 +35,8 @@ if(room == rm_game)
 		/// @DnDVersion : 1
 		/// @DnDHash : 4761C77C
 		/// @DnDParent : 6363CB50
-		/// @DnDArgument : "room" "rm_start"
-		/// @DnDSaveInfo : "room" "rm_start"
-		room_goto(rm_start);
+		/// @DnDArgument : "room" "rm_gameover"
+		/// @DnDSaveInfo : "room" "rm_gameover"
+		room_goto(rm_gameover);
 	}
 }

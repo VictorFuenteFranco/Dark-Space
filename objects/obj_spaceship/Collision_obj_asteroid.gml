@@ -35,8 +35,8 @@ instance_destroy();
 /// @DnDAction : YoYo Games.Loops.Repeat
 /// @DnDVersion : 1
 /// @DnDHash : 3D86702D
-/// @DnDArgument : "times" "10"
-repeat(10)
+/// @DnDArgument : "times" "15"
+repeat(15)
 {
 	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
