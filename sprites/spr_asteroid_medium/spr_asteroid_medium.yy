@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"48abc399-1c68-4b6d-80ba-5d30d968615a","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Asteroides",
+    "path": "folders/Sprites/Asteroides.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_asteroid_medium",

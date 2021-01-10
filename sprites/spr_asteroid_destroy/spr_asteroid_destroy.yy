@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"649fc1d9-e322-401e-bcae-4f4e0463a1df","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Asteroides",
+    "path": "folders/Sprites/Asteroides.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_asteroid_destroy",
