@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 2D7370C6
+/// @DnDArgument : "soundid" "laser_shoot_02"
+/// @DnDSaveInfo : "soundid" "laser_shoot_02"
+audio_play_sound(laser_shoot_02, 0, 0);
+
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 2D2830B4

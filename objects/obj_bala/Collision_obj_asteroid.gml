@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 137D5A27
+/// @DnDArgument : "soundid" "explosion_8_bit_01"
+/// @DnDSaveInfo : "soundid" "explosion_8_bit_01"
+audio_play_sound(explosion_8_bit_01, 0, 0);
+
 /// @DnDAction : YoYo Games.Common.Apply_To
 /// @DnDVersion : 1
 /// @DnDHash : 2A9C604E
@@ -41,8 +48,8 @@ with(other) {
 		/// @DnDVersion : 1
 		/// @DnDHash : 0B0ABA09
 		/// @DnDParent : 4F4106A7
-		/// @DnDArgument : "times" "2"
-		repeat(2)
+		/// @DnDArgument : "times" "3"
+		repeat(3)
 		{
 			/// @DnDAction : YoYo Games.Instances.Create_Instance
 			/// @DnDVersion : 1
@@ -77,8 +84,8 @@ with(other) {
 		/// @DnDVersion : 1
 		/// @DnDHash : 31332418
 		/// @DnDParent : 0426AED8
-		/// @DnDArgument : "times" "2"
-		repeat(2)
+		/// @DnDArgument : "times" "6"
+		repeat(6)
 		{
 			/// @DnDAction : YoYo Games.Instances.Create_Instance
 			/// @DnDVersion : 1
@@ -105,8 +112,8 @@ with(other) {
 	/// @DnDVersion : 1
 	/// @DnDHash : 18EEEA1C
 	/// @DnDParent : 23849D18
-	/// @DnDArgument : "times" "15"
-	repeat(15)
+	/// @DnDArgument : "times" "25"
+	repeat(25)
 	{
 		/// @DnDAction : YoYo Games.Instances.Create_Instance
 		/// @DnDVersion : 1

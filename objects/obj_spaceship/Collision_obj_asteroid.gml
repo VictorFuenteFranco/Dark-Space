@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 26DC4264
+/// @DnDArgument : "soundid" "explosion_8_bit_01"
+/// @DnDSaveInfo : "soundid" "explosion_8_bit_01"
+audio_play_sound(explosion_8_bit_01, 0, 0);
+
 /// @DnDAction : YoYo Games.Common.Apply_To
 /// @DnDVersion : 1
 /// @DnDHash : 78C0FC45
@@ -35,8 +42,8 @@ instance_destroy();
 /// @DnDAction : YoYo Games.Loops.Repeat
 /// @DnDVersion : 1
 /// @DnDHash : 3D86702D
-/// @DnDArgument : "times" "15"
-repeat(15)
+/// @DnDArgument : "times" "25"
+repeat(25)
 {
 	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
@@ -44,7 +51,7 @@ repeat(15)
 	/// @DnDParent : 3D86702D
 	/// @DnDArgument : "xpos_relative" "1"
 	/// @DnDArgument : "ypos_relative" "1"
-	/// @DnDArgument : "objectid" "obj_destruir"
-	/// @DnDSaveInfo : "objectid" "obj_destruir"
-	instance_create_layer(x + 0, y + 0, "Instances", obj_destruir);
+	/// @DnDArgument : "objectid" "obj_destruir_spaceship"
+	/// @DnDSaveInfo : "objectid" "obj_destruir_spaceship"
+	instance_create_layer(x + 0, y + 0, "Instances", obj_destruir_spaceship);
 }
