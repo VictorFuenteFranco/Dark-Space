@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_asteroid_medium",
-    "path": "sprites/spr_asteroid_medium/spr_asteroid_medium.yy",
+    "name": "spr_asteroid_huge",
+    "path": "sprites/spr_asteroid_huge/spr_asteroid_huge.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,6 +23,7 @@
   "eventList": [
     {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_aster","path":"objects/obj_aster/obj_aster.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_destroySS","path":"objects/obj_destroySS/obj_destroySS.yy",},"parent":{"name":"obj_aster","path":"objects/obj_aster/obj_aster.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_alpha","path":"objects/obj_alpha/obj_alpha.yy",},"parent":{"name":"obj_aster","path":"objects/obj_aster/obj_aster.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

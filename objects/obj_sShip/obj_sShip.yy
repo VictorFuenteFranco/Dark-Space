@@ -22,7 +22,6 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_sShip","path":"objects/obj_sShip/obj_sShip.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_destroySS","path":"objects/obj_destroySS/obj_destroySS.yy",},"parent":{"name":"obj_sShip","path":"objects/obj_sShip/obj_sShip.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_alpha","path":"objects/obj_alpha/obj_alpha.yy",},"parent":{"name":"obj_sShip","path":"objects/obj_sShip/obj_sShip.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],

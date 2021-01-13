@@ -6,13 +6,12 @@ randomize();
 /// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1
 /// @DnDHash : 5875344E
-/// @DnDArgument : "score" "950"
 
-__dnd_score = real(950);
+__dnd_score = real(0);
 
 /// @DnDAction : YoYo Games.Instance Variables.Set_Lives
 /// @DnDVersion : 1
 /// @DnDHash : 3903FF4D
-/// @DnDArgument : "lives" "1"
+/// @DnDArgument : "lives" "3"
 
-__dnd_lives = real(1);
+__dnd_lives = real(3);

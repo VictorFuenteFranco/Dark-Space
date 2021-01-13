@@ -12,6 +12,7 @@
     {"id":{"name":"spr_asteroid_huge","path":"sprites/spr_asteroid_huge/spr_asteroid_huge.yy",},"order":1,},
     {"id":{"name":"spr_destroySS","path":"sprites/spr_destroySS/spr_destroySS.yy",},"order":6,},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},"order":1,},
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},"order":0,},
     {"id":{"name":"spr_quit","path":"sprites/spr_quit/spr_quit.yy",},"order":3,},
     {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},"order":3,},
     {"id":{"name":"spr_lose","path":"sprites/spr_lose/spr_lose.yy",},"order":9,},

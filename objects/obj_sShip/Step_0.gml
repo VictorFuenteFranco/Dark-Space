@@ -9,8 +9,8 @@ if(room == rm_start)
 	/// @DnDVersion : 1
 	/// @DnDHash : 54DEB8D5
 	/// @DnDParent : 45B6AA9F
-	/// @DnDArgument : "speed" "1"
-	speed = 1;
+	/// @DnDArgument : "speed" "2"
+	speed = 2;
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
@@ -67,17 +67,6 @@ if(room == rm_gameover)
 	/// @DnDArgument : "op" "3"
 	if(image_alpha <= 0)
 	{
-		/// @DnDAction : YoYo Games.Particles.Effect
-		/// @DnDVersion : 1
-		/// @DnDHash : 428EFA53
-		/// @DnDParent : 3476D989
-		/// @DnDArgument : "x_relative" "1"
-		/// @DnDArgument : "y_relative" "1"
-		/// @DnDArgument : "where" "1"
-		/// @DnDArgument : "size" "2"
-		/// @DnDArgument : "color" "$FF000099"
-		effect_create_above(0, x + 0, y + 0, 2, $FF000099 & $ffffff);
-	
 		/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 		/// @DnDVersion : 1
 		/// @DnDHash : 30CBE875
@@ -97,6 +86,6 @@ if(room == rm_win)
 	/// @DnDVersion : 1
 	/// @DnDHash : 25538CD7
 	/// @DnDParent : 11955961
-	/// @DnDArgument : "speed" "-1"
-	speed = -1;
+	/// @DnDArgument : "speed" "-2"
+	speed = -2;
 }
