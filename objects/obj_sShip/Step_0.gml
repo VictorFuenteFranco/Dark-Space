@@ -44,12 +44,12 @@ if(room == rm_gameover)
 	/// @DnDVersion : 1
 	/// @DnDHash : 0CB3D92A
 	/// @DnDParent : 32FF5F25
-	/// @DnDArgument : "xscale" "-0.05"
+	/// @DnDArgument : "xscale" "-0.005"
 	/// @DnDArgument : "xscale_relative" "1"
-	/// @DnDArgument : "yscale" "-0.05"
+	/// @DnDArgument : "yscale" "-0.005"
 	/// @DnDArgument : "yscale_relative" "1"
-	image_xscale += -0.05;
-	image_yscale += -0.05;
+	image_xscale += -0.005;
+	image_yscale += -0.005;
 
 	/// @DnDAction : YoYo Games.Instances.Sprite_Image_Alpha
 	/// @DnDVersion : 1
